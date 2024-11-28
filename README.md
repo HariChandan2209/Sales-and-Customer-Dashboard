@@ -26,17 +26,16 @@ This Tableau project demonstrates insights into sales, customer demographics, pr
 
 ### Key Features
 - **Sales Analysis**:
-  - Monthly, quarterly, and yearly trends in sales revenue.
-  - Identification of top-performing products and categories.
-- **Customer Insights**:
+  - KPIs for Sales, Profit and Quantity and comparing then with current and previous years
+  - Identification of top-performing categories.
+  - Sales and Profit trend over the year
+- **Customer Insights**: 
   - Customer segmentation based on purchase behavior.
+  - Identifying top-performing customers.
   - Demographic trends affecting sales.
-- **Geographical Performance**:
-  - Region-wise sales analysis.
-  - Heatmaps showcasing sales density by location.
 
 ### Visualizations
-- Bar charts, line graphs, and pie charts for trend analysis.
+- Bar charts and line graphs for trend analysis.
 - Maps for geographical insights.
 - KPI indicators for quick business insights.
 
